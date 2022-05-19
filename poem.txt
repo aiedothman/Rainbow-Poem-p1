@@ -5,4 +5,5 @@ green
 blue
 purple
 black
-These are the colors of the rainbow
+sprite
+These are the colors of the rainbow and a. sprite
