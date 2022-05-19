@@ -6,4 +6,5 @@ blue
 purple
 black
 sprite
-These are the colors of the rainbow and a. sprite
+pepsi
+These are the colors of the rainbow and a sprite
